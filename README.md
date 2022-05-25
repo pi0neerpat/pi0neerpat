@@ -2,7 +2,7 @@
 
 ## 🛠️ I'm currently building:
 
-- [@niftychess](https://twitter.com/niftychess), to help onboard the masses to web3. 
+- [@treasure-chess](https://github.com/treasure-chess), to help onboard the masses to web3. 
 - [@swordybot](https://twitter.com/swordybot), to bring web3 to Discord.
 - [@oneclickdapp](https://oneclickdapp.com), to help improve web3 developer experience.
 
