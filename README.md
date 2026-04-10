@@ -14,8 +14,3 @@ Some things I've worked on:
 
 - [RedwoodJS](https://redwoodjs.com) The full-stack app framework for startups
 
-## 📔 Blog
-
-I also occasionally post blogs at [PatrickGallagher.dev](https://patrickgallagher.dev)
-
-<a href="https://patrickgallagher.dev" alt="Showcase of projects"><img width="700" src="https://user-images.githubusercontent.com/35622595/146261347-f02f7068-51f9-4b2d-ab4c-7647f662fe38.png"/></a>
